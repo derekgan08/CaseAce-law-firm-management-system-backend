@@ -1,0 +1,6 @@
+node_modules
+.env
+package-lock.json
+
+# Ignore sensitive files:
+config/gdrive_api_keys.json
